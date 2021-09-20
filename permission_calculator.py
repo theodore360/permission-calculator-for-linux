@@ -1,5 +1,5 @@
 # author: morteza abdollahi
-# title: permission ofline calcaulator
+# title: permission offline calcaulator
 # description: simple a free permission calculator
 # language programming: python 3.x
 # this is script for convert permission linux file
